@@ -1,4 +1,4 @@
 # CIFAR-10-Classification
 Deep learning models such as convolution neural networks have been successful in image classification and object detection tasks. Cifar-10 dataset is used in this project to benchmark our deep learning model. 
 
-View the final paper and analysis here: Image Classification on CIFAR-10.pdf
+View the final paper and analysis here: [Image Classification on CIFAR-10](https://github.com/hhawkins4/CIFAR-10-Classification/blob/main/Image%20Classification%20on%20CIFAR-10.pdf)
